@@ -40,4 +40,6 @@ const SHOWS = [
         creator: 'Lauren Schmidt Hissrich',
         image: THE_WITCHER,
     },
-]
+];
+
+export default SHOWS;
